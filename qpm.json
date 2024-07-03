@@ -5,7 +5,7 @@
   "info": {
     "name": "Sqore Toggler",
     "id": "SqoreToggler",
-    "version": "0.6.0-beta",
+    "version": "0.7.0-beta",
     "url": null,
     "additionalData": {
       "overrideSoName": "libSqoreToggler.so",
@@ -41,7 +41,7 @@
   "dependencies": [
     {
       "id": "beatsaber-hook",
-      "versionRange": "^5.1.6",
+      "versionRange": "^5.1.9",
       "additionalData": {
         "extraFiles": [
           "src/inline-hook"
@@ -68,27 +68,27 @@
     },
     {
       "id": "bsml",
-      "versionRange": "^0.4.20",
+      "versionRange": "^0.4.43",
       "additionalData": {}
     },
     {
       "id": "custom-types",
-      "versionRange": "^0.17.6",
+      "versionRange": "^0.17.10",
       "additionalData": {}
     },
     {
       "id": "bs-cordl",
-      "versionRange": "3500.*",
+      "versionRange": "3700.*",
       "additionalData": {}
     },
     {
       "id": "bs-utils",
-      "versionRange": "^0.8.2",
+      "versionRange": "^0.8.3",
       "additionalData": {}
     },
     {
       "id": "song-details",
-      "versionRange": "^0.3.3",
+      "versionRange": "^0.3.4",
       "additionalData": {}
     }
   ]
