@@ -27,8 +27,8 @@ on:
     branches: master
 
 env:
-    module_id: bsml
-    qmod_name: BSML
+    module_id: SqoreToggler
+    qmod_name: Sqore Toggler
 
 jobs:
   build:
